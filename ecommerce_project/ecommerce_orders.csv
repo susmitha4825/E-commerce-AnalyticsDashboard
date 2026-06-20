@@ -1,0 +1,509 @@
+order_id,customer_id,customer_age,customer_gender,city,order_date,product,category,quantity,unit_price,discount_pct,discount_amount,revenue,payment_method,order_status
+ORD00001,CUST0091,50.0,Other,Hyderabad,2023-12-25,T-Shirt,Clothing,4,538.49,10.0,215.4,1938.56,Debit Card,Delivered
+ORD00002,CUST0009,51.0,Male,Delhi,2023-10-13,Backpack,Accessories,3,1550.96,10.0,465.29,4187.59,Cash on Delivery,Delivered
+ORD00003,CUST0125,20.0,Female,Ahmedabad,2023-09-25,Running Shoes,Footwear,1,5713.41,5.0,285.67,5427.74,Cash on Delivery,Returned
+ORD00004,CUST0016,56.0,Male,Hyderabad,2023-11-18,Laptop,Electronics,1,49336.1,15.0,7400.41,41935.69,Cash on Delivery,Returned
+ORD00005,CUST0030,55.0,Other,Kolkata,2023-02-15,Backpack,Accessories,1,3207.56,25.0,801.89,2405.67,Net Banking,Delivered
+ORD00006,CUST0126,40.0,Female,Jaipur,2024-11-17,Desk Chair,Furniture,2,11913.45,5.0,1191.35,22635.55,UPI,Delivered
+ORD00007,CUST0020,25.0,Male,Jaipur,2023-11-04,Cookbook,Books,3,518.74,20.0,311.24,1244.98,UPI,Delivered
+ORD00008,CUST0018,33.0,Other,Lucknow,2023-07-16,Backpack,Accessories,2,2620.9,15.0,786.27,4455.53,Net Banking,Delivered
+ORD00009,CUST0030,55.0,Other,Kolkata,2023-01-01,Cookbook,Books,1,697.37,10.0,69.74,627.63,UPI,Delivered
+ORD00010,CUST0147,28.0,Male,Lucknow,2024-03-28,Cookbook,Books,1,757.29,25.0,189.32,567.97,,Delivered
+ORD00011,CUST0027,23.0,Male,Chennai,2024-10-10,Desk Chair,Furniture,2,4931.84,20.0,1972.74,7890.94,UPI,Delivered
+ORD00012,CUST0001,52.0,Male,Delhi,2023-05-31,Desk Chair,Furniture,3,7413.92,0.0,0.0,22241.76,Credit Card,Delivered
+ORD00013,CUST0094,21.0,Other,Hyderabad,2024-02-29,Cookbook,Books,1,893.82,25.0,223.46,670.36,Cash on Delivery,Delivered
+ORD00014,CUST0047,22.0,Male,Delhi,2024-12-05,Water Bottle,Accessories,1,518.72,0.0,0.0,518.72,Credit Card,Shipped
+ORD00015,CUST0023,55.0,Male,Kolkata,2024-04-20,Headphones,Electronics,2,6726.71,0.0,0.0,13453.42,Cash on Delivery,Delivered
+ORD00016,CUST0003,38.0,Other,Chennai,2024-06-27,Water Bottle,Accessories,1,305.67,20.0,61.13,244.54,Cash on Delivery,Delivered
+ORD00017,CUST0077,26.0,Other,Bangalore,2024-03-12,Cookbook,Books,4,869.5,20.0,695.6,2782.4,Net Banking,Cancelled
+ORD00018,CUST0094,21.0,Other,Hyderabad,2024-10-14,Water Bottle,Accessories,1,406.35,10.0,40.63,365.72,Cash on Delivery,Delivered
+ORD00019,CUST0003,38.0,Other,Chennai,2023-08-29,Jeans,Clothing,2,1766.72,10.0,353.34,3180.1,UPI,Delivered
+ORD00020,CUST0127,31.0,Male,Chennai,2024-12-11,Smartphone,Electronics,1,16566.34,5.0,828.32,15738.02,Debit Card,Delivered
+ORD00021,CUST0059,40.0,Other,Chennai,2023-07-31,Running Shoes,Footwear,1,3849.27,15.0,577.39,3271.88,Net Banking,Cancelled
+ORD00022,CUST0150,20.0,Other,Pune,2024-08-12,Monitor,Electronics,4,8332.04,15.0,4999.22,28328.94,Net Banking,Delivered
+ORD00023,CUST0031,54.0,Female,Pune,2024-03-05,Jeans,Clothing,3,2456.65,20.0,1473.99,5895.96,Cash on Delivery,Shipped
+ORD00024,CUST0023,55.0,Male,Kolkata,2023-01-30,Water Bottle,Accessories,1,374.54,15.0,56.18,318.36,UPI,Delivered
+ORD00025,CUST0058,26.0,Male,Hyderabad,2023-05-11,Monitor,Electronics,1,10805.76,20.0,2161.15,8644.61,Cash on Delivery,Delivered
+ORD00026,CUST0052,24.0,Other,Lucknow,2024-10-20,Cookbook,Books,1,694.07,15.0,104.11,589.96,Debit Card,Cancelled
+ORD00027,CUST0004,21.0,Male,Hyderabad,2024-04-10,Laptop,Electronics,1,55406.25,10.0,5540.62,49865.63,UPI,Shipped
+ORD00028,CUST0045,47.0,Female,Ahmedabad,2023-09-16,Jeans,Clothing,3,2453.42,0.0,0.0,7360.26,Net Banking,Delivered
+ORD00029,CUST0127,31.0,Male,Chennai,2024-10-27,Laptop,Electronics,1,84996.31,0.0,0.0,84996.31,Credit Card,Shipped
+ORD00030,CUST0007,48.0,Female,Delhi,2023-09-02,T-Shirt,Clothing,2,1306.07,5.0,130.61,2481.53,Net Banking,Delivered
+ORD00031,CUST0139,44.0,Other,Mumbai,2024-01-13,T-Shirt,Clothing,1,857.04,5.0,42.85,814.19,Cash on Delivery,Delivered
+ORD00032,CUST0029,60.0,Other,Bangalore,2023-01-27,Headphones,Electronics,1,7770.69,10.0,777.07,6993.62,Cash on Delivery,Delivered
+ORD00033,CUST0043,59.0,Female,Chennai,2024-08-29,Backpack,Accessories,1,3329.26,25.0,832.32,2496.94,Debit Card,Delivered
+ORD00034,CUST0005,21.0,Other,Hyderabad,2024-08-02,Desk Chair,Furniture,1,10604.13,0.0,0.0,10604.13,UPI,Delivered
+ORD00035,CUST0040,43.0,Other,Pune,2024-03-06,Smartphone,Electronics,1,28696.71,15.0,4304.51,24392.2,Credit Card,Delivered
+ORD00036,CUST0036,60.0,Male,Delhi,2023-06-06,Desk Chair,Furniture,1,13807.22,15.0,2071.08,11736.14,Debit Card,Shipped
+ORD00037,CUST0019,43.0,Female,Mumbai,2024-05-10,Cookbook,Books,2,864.74,15.0,259.42,1470.06,Net Banking,Shipped
+ORD00038,CUST0018,33.0,Other,Lucknow,2023-03-30,Running Shoes,Footwear,3,5302.05,10.0,1590.62,14315.53,Net Banking,Delivered
+ORD00039,CUST0088,31.0,Female,Kolkata,2023-01-30,Cookbook,Books,1,726.23,15.0,108.93,617.3,UPI,Delivered
+ORD00040,CUST0019,43.0,Female,Mumbai,2024-09-02,Running Shoes,Footwear,1,5048.81,25.0,1262.2,3786.61,UPI,Delivered
+ORD00041,CUST0115,20.0,Other,Mumbai,2024-05-15,T-Shirt,Clothing,2,401.74,20.0,160.7,642.78,Debit Card,Delivered
+ORD00042,CUST0102,26.0,Male,Jaipur,2023-08-15,Water Bottle,Accessories,1,833.35,15.0,125.0,708.35,Debit Card,Delivered
+ORD00043,CUST0148,24.0,Male,Hyderabad,2024-03-11,Running Shoes,Footwear,2,3523.32,25.0,1761.66,5284.98,Cash on Delivery,Delivered
+ORD00044,CUST0083,35.0,Male,Pune,2023-07-17,Jeans,Clothing,1,1473.57,10.0,147.36,1326.21,Credit Card,Shipped
+ORD00045,CUST0005,21.0,Other,Hyderabad,2024-08-26,T-Shirt,Clothing,1,558.66,20.0,111.73,446.93,Cash on Delivery,Delivered
+ORD00046,CUST0022,33.0,Male,Jaipur,2023-11-06,T-Shirt,Clothing,1,654.5,0.0,0.0,654.5,Cash on Delivery,Delivered
+ORD00047,CUST0024,56.0,Other,Hyderabad,2023-05-10,Laptop,Electronics,2,67134.36,25.0,33567.18,100701.54,Net Banking,Delivered
+ORD00048,CUST0007,48.0,Female,Delhi,2023-12-15,Cookbook,Books,1,498.04,5.0,24.9,473.14,Credit Card,Delivered
+ORD00049,CUST0095,23.0,Other,Ahmedabad,2023-03-17,Smartphone,Electronics,1,39129.82,20.0,7825.96,31303.86,Credit Card,Delivered
+ORD00050,CUST0139,44.0,Other,Mumbai,2024-07-25,Jeans,Clothing,1,986.4,15.0,147.96,838.44,Cash on Delivery,Delivered
+ORD00051,CUST0026,57.0,Other,Lucknow,2023-11-01,Novel,Books,4,427.23,20.0,341.78,1367.14,Net Banking,Delivered
+ORD00052,CUST0001,52.0,Male,Delhi,2023-08-01,Cookbook,Books,1,971.08,25.0,242.77,728.31,Debit Card,Delivered
+ORD00053,CUST0012,50.0,Male,Mumbai,2023-06-10,Headphones,Electronics,2,3059.12,0.0,0.0,6118.24,Net Banking,Delivered
+ORD00054,CUST0091,50.0,Other,Hyderabad,2023-10-17,Jeans,Clothing,1,870.81,25.0,217.7,653.11,Net Banking,Delivered
+ORD00055,CUST0030,55.0,Other,Kolkata,2024-11-08,Jeans,Clothing,2,2532.22,5.0,253.22,4811.22,Net Banking,Delivered
+ORD00056,CUST0026,57.0,Other,Lucknow,2023-05-26,Desk Chair,Furniture,1,5638.03,0.0,0.0,5638.03,Credit Card,Delivered
+ORD00057,CUST0008,50.0,Male,Jaipur,2023-10-23,Cookbook,Books,2,823.27,15.0,246.98,1399.56,Credit Card,Delivered
+ORD00058,CUST0006,55.0,Female,Bangalore,2024-07-06,Monitor,Electronics,1,14842.64,15.0,2226.4,12616.24,Net Banking,Delivered
+ORD00059,CUST0021,54.0,Other,Hyderabad,2023-01-27,Backpack,Accessories,2,2729.15,0.0,0.0,5458.3,Debit Card,Returned
+ORD00060,CUST0145,33.0,Male,Chennai,2024-11-19,Cookbook,Books,5,964.55,10.0,482.27,4340.48,Cash on Delivery,Delivered
+ORD00061,CUST0030,55.0,Other,Kolkata,2023-10-12,Water Bottle,Accessories,1,614.17,5.0,30.71,583.46,Cash on Delivery,Delivered
+ORD00062,CUST0102,26.0,Male,Jaipur,2023-11-25,Smartphone,Electronics,1,27510.34,25.0,6877.59,20632.75,Credit Card,Cancelled
+ORD00063,CUST0019,43.0,Female,Mumbai,2024-02-15,Backpack,Accessories,1,2610.65,20.0,522.13,2088.52,Credit Card,Delivered
+ORD00064,CUST0012,50.0,Male,Mumbai,2024-02-18,Jeans,Clothing,5,1510.2,20.0,1510.2,6040.8,Credit Card,Delivered
+ORD00065,CUST0128,33.0,Female,Jaipur,2024-01-06,Water Bottle,Accessories,1,529.6,20.0,105.92,423.68,Net Banking,Delivered
+ORD00066,CUST0027,23.0,Male,Chennai,2023-10-22,T-Shirt,Clothing,1,619.47,15.0,92.92,526.55,Net Banking,Delivered
+ORD00067,CUST0003,38.0,Other,Chennai,2024-07-19,Monitor,Electronics,2,10692.43,15.0,3207.73,18177.13,Credit Card,Delivered
+ORD00068,CUST0029,60.0,Other,Bangalore,2023-06-07,Water Bottle,Accessories,2,956.65,15.0,287.0,1626.3,UPI,Delivered
+ORD00069,CUST0020,25.0,Male,Jaipur,2023-09-07,Backpack,Accessories,5,3019.7,,2264.78,12833.72,Cash on Delivery,Delivered
+ORD00070,CUST0008,50.0,Male,Jaipur,2023-03-13,Cookbook,Books,4,654.77,10.0,261.91,2357.17,Net Banking,Delivered
+ORD00071,CUST0110,18.0,Female,Hyderabad,2023-11-02,Jeans,Clothing,1,2604.21,20.0,520.84,2083.37,Cash on Delivery,Returned
+ORD00072,CUST0101,39.0,Male,Hyderabad,2023-12-07,Headphones,Electronics,1,4402.56,20.0,880.51,3522.05,Cash on Delivery,Delivered
+ORD00073,CUST0015,22.0,Other,Hyderabad,2024-01-28,T-Shirt,Clothing,1,1475.93,5.0,73.8,1402.13,Net Banking,Delivered
+ORD00074,CUST0093,,Other,Pune,2024-11-10,Monitor,Electronics,1,23528.31,25.0,5882.08,17646.23,Debit Card,Delivered
+ORD00075,CUST0019,43.0,Female,Mumbai,2023-04-13,Headphones,Electronics,2,4764.89,15.0,1429.47,8100.31,Credit Card,Delivered
+ORD00076,CUST0084,36.0,Male,Mumbai,2024-11-01,Laptop,Electronics,1,73897.75,5.0,3694.89,70202.86,Credit Card,Delivered
+ORD00077,CUST0016,56.0,Male,Hyderabad,2023-03-24,Running Shoes,Footwear,1,4228.32,10.0,422.83,3805.49,Cash on Delivery,Delivered
+ORD00078,CUST0013,23.0,Male,Mumbai,2024-07-08,Desk Chair,Furniture,3,11905.61,0.0,0.0,35716.83,Cash on Delivery,Delivered
+ORD00079,CUST0028,44.0,Female,Mumbai,2023-04-11,T-Shirt,Clothing,1,1195.12,25.0,298.78,896.34,Credit Card,Delivered
+ORD00080,CUST0004,21.0,Male,Hyderabad,2023-10-28,Laptop,Electronics,3,46839.64,10.0,14051.89,126467.03,UPI,Delivered
+ORD00081,CUST0006,55.0,Female,Bangalore,2023-07-04,Novel,Books,2,446.23,5.0,44.62,847.84,Debit Card,Delivered
+ORD00082,CUST0046,38.0,Male,Jaipur,2024-08-20,Cookbook,Books,1,777.19,5.0,38.86,738.33,Debit Card,Delivered
+ORD00083,CUST0011,21.0,Female,Kolkata,2024-04-21,Water Bottle,Accessories,1,403.26,10.0,40.33,362.93,Cash on Delivery,Delivered
+ORD00084,CUST0077,26.0,Other,Bangalore,2024-03-10,Running Shoes,Footwear,1,5940.96,25.0,1485.24,4455.72,UPI,Delivered
+ORD00085,CUST0005,21.0,Other,Hyderabad,2023-04-20,T-Shirt,Clothing,3,1498.25,5.0,224.74,4270.01,,Delivered
+ORD00086,CUST0145,33.0,Male,Chennai,2024-11-05,Jeans,Clothing,1,2982.92,15.0,447.44,2535.48,UPI,Delivered
+ORD00087,CUST0026,57.0,Other,Lucknow,2023-10-21,Cookbook,Books,3,820.62,5.0,123.09,2338.77,Cash on Delivery,Shipped
+ORD00088,CUST0023,55.0,Male,Kolkata,2024-11-06,Desk Chair,Furniture,1,6090.64,25.0,1522.66,4567.98,Debit Card,Delivered
+ORD00089,CUST0021,54.0,Other,Hyderabad,2024-01-09,Jeans,Clothing,1,2533.94,25.0,633.49,1900.45,Debit Card,Delivered
+ORD00090,CUST0002,21.0,Other,Mumbai,2023-05-16,Running Shoes,Footwear,1,4812.16,20.0,962.43,3849.73,UPI,Delivered
+ORD00091,CUST0020,25.0,Male,Jaipur,2024-05-08,Headphones,Electronics,3,3170.31,10.0,951.09,8559.84,UPI,Shipped
+ORD00092,CUST0090,34.0,Female,Delhi,2024-11-23,Smartphone,Electronics,5,16644.98,25.0,20806.22,62418.68,Net Banking,Returned
+ORD00093,CUST0136,33.0,Female,Kolkata,2023-09-28,Running Shoes,Footwear,1,1723.42,20.0,344.68,1378.74,Credit Card,Delivered
+ORD00094,CUST0015,22.0,Other,Hyderabad,2024-01-16,Cookbook,Books,2,565.72,0.0,0.0,1131.44,Debit Card,Delivered
+ORD00095,CUST0138,29.0,Other,Ahmedabad,2023-03-06,Running Shoes,Footwear,1,5600.7,25.0,1400.17,4200.53,Net Banking,Cancelled
+ORD00096,CUST0005,21.0,Other,Hyderabad,2023-02-08,Desk Chair,Furniture,1,8490.66,10.0,849.07,7641.59,Net Banking,Delivered
+ORD00097,CUST0001,52.0,Male,Delhi,2024-11-17,Novel,Books,1,280.4,25.0,70.1,210.3,Cash on Delivery,Delivered
+ORD00098,CUST0020,25.0,Male,Jaipur,2024-09-22,Backpack,Accessories,3,2498.27,15.0,1124.22,6370.59,UPI,Delivered
+ORD00099,CUST0040,43.0,Other,Pune,2024-01-07,T-Shirt,Clothing,5,831.06,0.0,0.0,4155.3,UPI,Delivered
+ORD00100,CUST0034,34.0,Other,Hyderabad,2023-05-06,Laptop,Electronics,1,60925.59,15.0,9138.84,51786.75,Credit Card,Delivered
+ORD00101,CUST0011,21.0,Female,Kolkata,2023-05-09,Laptop,Electronics,1,76471.78,20.0,15294.36,61177.42,Debit Card,Delivered
+ORD00102,CUST0134,57.0,Female,Delhi,2023-08-27,T-Shirt,Clothing,3,1002.66,10.0,300.8,2707.18,Debit Card,Shipped
+ORD00103,CUST0002,21.0,Other,Mumbai,2023-05-14,Jeans,Clothing,1,2687.49,20.0,537.5,2149.99,UPI,Shipped
+ORD00104,CUST0027,23.0,Male,Chennai,2024-01-02,Desk Chair,Furniture,1,13530.79,5.0,676.54,12854.25,Cash on Delivery,Delivered
+ORD00105,CUST0030,,Other,Kolkata,2024-06-22,Jeans,Clothing,2,914.28,0.0,0.0,1828.56,Credit Card,Delivered
+ORD00106,CUST0036,60.0,Male,Delhi,2023-08-15,Novel,Books,1,555.2,20.0,111.04,444.16,Credit Card,Shipped
+ORD00107,CUST0117,55.0,Male,Bangalore,2023-03-04,Jeans,Clothing,5,1806.69,15.0,1355.02,7678.43,Net Banking,Delivered
+ORD00108,CUST0026,57.0,Other,Lucknow,2023-03-24,Water Bottle,Accessories,1,768.92,10.0,76.89,692.03,Cash on Delivery,Delivered
+ORD00109,CUST0005,21.0,Other,Hyderabad,2024-12-30,Jeans,Clothing,2,2172.5,10.0,434.5,3910.5,Net Banking,Returned
+ORD00110,CUST0122,20.0,Male,Kolkata,2023-04-12,Jeans,Clothing,2,1797.17,25.0,898.59,2695.75,Credit Card,Cancelled
+ORD00111,CUST0133,44.0,Female,Pune,2023-08-22,Monitor,Electronics,1,22713.37,15.0,3407.01,19306.36,UPI,Shipped
+ORD00112,CUST0055,31.0,Other,Hyderabad,2023-11-17,Backpack,Accessories,1,2714.88,25.0,678.72,2036.16,UPI,Delivered
+ORD00113,CUST0019,43.0,Female,Mumbai,2023-03-29,Desk Chair,Furniture,1,14152.76,0.0,0.0,14152.76,Net Banking,Delivered
+ORD00114,CUST0041,26.0,Other,Pune,2024-07-29,Headphones,Electronics,2,5116.41,20.0,2046.56,8186.26,UPI,Delivered
+ORD00115,CUST0061,33.0,Male,Hyderabad,2024-03-09,Running Shoes,Footwear,4,5404.95,25.0,5404.95,16214.85,Credit Card,Returned
+ORD00116,CUST0010,28.0,Female,Lucknow,2023-06-08,Running Shoes,Footwear,2,1785.92,25.0,892.96,2678.88,Net Banking,Delivered
+ORD00117,CUST0026,57.0,Other,Lucknow,2023-10-13,Running Shoes,Footwear,1,5272.26,20.0,1054.45,4217.81,Debit Card,Shipped
+ORD00118,CUST0138,29.0,Other,Ahmedabad,2023-01-27,Cookbook,Books,2,728.5,20.0,291.4,1165.6,UPI,Delivered
+ORD00119,CUST0020,25.0,Male,Jaipur,2023-12-26,Monitor,Electronics,4,20960.96,0.0,0.0,83843.84,Debit Card,Cancelled
+ORD00120,CUST0140,19.0,Other,Chennai,2024-10-10,Desk Chair,Furniture,1,8408.03,0.0,0.0,8408.03,Credit Card,Shipped
+ORD00121,CUST0021,54.0,Other,Hyderabad,2024-01-14,Backpack,Accessories,1,1816.51,10.0,181.65,1634.86,UPI,Shipped
+ORD00122,CUST0141,29.0,Other,Jaipur,2023-06-11,Cookbook,Books,1,358.47,20.0,71.69,286.78,Credit Card,Delivered
+ORD00123,CUST0020,25.0,Male,Jaipur,2024-03-28,Water Bottle,Accessories,1,728.55,15.0,109.28,619.27,UPI,Delivered
+ORD00124,CUST0113,27.0,Male,Ahmedabad,2024-11-25,Smartphone,Electronics,1,23390.7,25.0,5847.68,17543.02,Cash on Delivery,Delivered
+ORD00125,CUST0008,50.0,Male,Jaipur,2023-02-26,Laptop,Electronics,5,53820.74,,0.0,269103.7,Debit Card,Delivered
+ORD00126,CUST0019,43.0,Female,Mumbai,2023-05-03,Headphones,Electronics,1,6467.05,0.0,0.0,6467.05,Net Banking,Shipped
+ORD00127,CUST0030,55.0,Other,Kolkata,2024-05-27,Headphones,Electronics,2,3971.35,20.0,1588.54,6354.16,UPI,Delivered
+ORD00128,CUST0022,33.0,Male,Jaipur,2023-11-17,Backpack,Accessories,4,653.35,20.0,522.68,2090.72,Net Banking,Delivered
+ORD00129,CUST0064,28.0,Male,Chennai,2023-11-29,Jeans,Clothing,1,1052.38,5.0,52.62,999.76,Cash on Delivery,Delivered
+ORD00130,CUST0036,60.0,Male,Delhi,2024-03-22,Smartphone,Electronics,1,26411.49,20.0,5282.3,21129.19,Net Banking,Delivered
+ORD00131,CUST0053,22.0,Other,Pune,2023-06-22,Jeans,Clothing,1,2439.77,0.0,0.0,2439.77,Cash on Delivery,Delivered
+ORD00132,CUST0122,20.0,Male,Kolkata,2023-12-26,Novel,Books,3,315.34,25.0,236.5,709.52,Debit Card,Delivered
+ORD00133,CUST0015,22.0,Other,Hyderabad,2024-11-02,Jeans,Clothing,2,1233.0,0.0,0.0,2466.0,Debit Card,Returned
+ORD00134,CUST0103,58.0,Male,Jaipur,2024-04-04,Water Bottle,Accessories,3,802.56,25.0,601.92,1805.76,Cash on Delivery,Delivered
+ORD00135,CUST0016,56.0,Male,Hyderabad,2024-04-25,Desk Chair,Furniture,1,7476.84,15.0,1121.53,6355.31,UPI,Shipped
+ORD00136,CUST0029,60.0,Other,Bangalore,2024-04-07,Running Shoes,Footwear,1,3683.48,0.0,0.0,3683.48,Credit Card,Delivered
+ORD00137,CUST0027,23.0,Male,Chennai,2023-04-03,Smartphone,Electronics,5,33273.99,20.0,33273.99,133095.96,Cash on Delivery,Delivered
+ORD00138,CUST0087,39.0,Female,Pune,2023-02-12,Cookbook,Books,3,687.02,15.0,309.16,1751.9,Cash on Delivery,Delivered
+ORD00139,CUST0015,22.0,Other,Hyderabad,2023-03-05,Cookbook,Books,1,631.94,15.0,94.79,537.15,Credit Card,Shipped
+ORD00140,CUST0026,57.0,Other,Lucknow,2023-02-10,Monitor,Electronics,2,9433.6,5.0,943.36,17923.84,Net Banking,Returned
+ORD00141,CUST0119,27.0,Other,Kolkata,2023-10-17,Novel,Books,1,564.88,15.0,84.73,480.15,Net Banking,Shipped
+ORD00142,CUST0027,23.0,Male,Chennai,2023-04-07,Desk Chair,Furniture,1,11120.01,20.0,2224.0,8896.01,Net Banking,Delivered
+ORD00143,CUST0017,22.0,Male,Jaipur,2023-12-25,Running Shoes,Footwear,2,1682.06,10.0,336.41,3027.71,Net Banking,Delivered
+ORD00144,CUST0014,29.0,Male,Delhi,2023-12-03,Jeans,Clothing,2,2028.63,5.0,202.86,3854.4,Cash on Delivery,Delivered
+ORD00145,CUST0067,37.0,Other,Bangalore,2023-07-04,Novel,Books,1,416.1,5.0,20.8,395.3,UPI,Cancelled
+ORD00146,CUST0099,20.0,Other,Chennai,2023-03-21,T-Shirt,Clothing,1,570.85,10.0,57.09,513.76,Credit Card,Delivered
+ORD00147,CUST0127,31.0,Male,Chennai,2023-12-11,Monitor,Electronics,1,23022.6,20.0,4604.52,18418.08,Debit Card,Delivered
+ORD00148,CUST0019,43.0,Female,Mumbai,2024-10-01,Headphones,Electronics,2,2675.5,5.0,267.55,5083.45,Net Banking,Delivered
+ORD00149,CUST0037,38.0,Other,Delhi,2024-09-17,Desk Chair,Furniture,5,11915.16,10.0,5957.58,53618.22,Net Banking,Delivered
+ORD00150,CUST0003,38.0,Other,Chennai,2023-07-18,Jeans,Clothing,3,2923.31,10.0,876.99,7892.94,Cash on Delivery,Returned
+ORD00151,CUST0087,39.0,Female,Pune,2024-03-04,Jeans,Clothing,2,2510.87,5.0,251.09,4770.65,Debit Card,Shipped
+ORD00152,CUST0011,21.0,Female,Kolkata,2024-01-16,Jeans,Clothing,1,913.8,20.0,182.76,731.04,Credit Card,Shipped
+ORD00153,CUST0115,20.0,Other,Mumbai,2023-10-07,Smartphone,Electronics,3,21407.08,15.0,9633.19,54588.05,Cash on Delivery,Delivered
+ORD00154,CUST0074,37.0,Male,Bangalore,2024-04-06,Smartphone,Electronics,1,43231.64,10.0,4323.16,38908.48,Credit Card,Delivered
+ORD00155,CUST0053,22.0,Other,Pune,2023-03-25,Novel,Books,1,423.38,10.0,42.34,381.04,Debit Card,Delivered
+ORD00156,CUST0021,,Other,Hyderabad,2023-05-21,Monitor,Electronics,3,19049.33,0.0,0.0,57147.99,UPI,Cancelled
+ORD00157,CUST0092,49.0,Male,Lucknow,2024-04-25,Monitor,Electronics,3,22128.88,15.0,9958.0,56428.64,Cash on Delivery,Delivered
+ORD00158,CUST0011,21.0,Female,Kolkata,2024-07-15,Laptop,Electronics,3,55236.96,25.0,41427.72,124283.16,Cash on Delivery,Delivered
+ORD00159,CUST0027,23.0,Male,Chennai,2023-09-02,Jeans,Clothing,1,1321.81,15.0,198.27,1123.54,Cash on Delivery,Delivered
+ORD00160,CUST0027,23.0,Male,Chennai,2024-06-11,Water Bottle,Accessories,1,676.39,20.0,135.28,541.11,Debit Card,Shipped
+ORD00161,CUST0030,55.0,Other,Kolkata,2024-08-07,Backpack,Accessories,1,603.54,15.0,90.53,513.01,Debit Card,Delivered
+ORD00162,CUST0014,29.0,Male,Delhi,2024-06-22,Novel,Books,1,783.79,20.0,156.76,627.03,Cash on Delivery,Shipped
+ORD00163,CUST0110,18.0,Female,Hyderabad,2023-02-14,Novel,Books,4,211.2,25.0,211.2,633.6,Net Banking,Returned
+ORD00164,CUST0010,28.0,Female,Lucknow,2023-12-20,Monitor,Electronics,3,8276.12,5.0,1241.42,23586.94,Credit Card,Shipped
+ORD00165,CUST0021,54.0,Other,Hyderabad,2024-10-20,Headphones,Electronics,2,1788.18,5.0,178.82,3397.54,Net Banking,Returned
+ORD00166,CUST0096,58.0,Male,Kolkata,2024-04-13,Desk Chair,Furniture,1,6004.24,0.0,0.0,6004.24,UPI,Delivered
+ORD00167,CUST0013,23.0,Male,Mumbai,2024-02-12,Laptop,Electronics,1,57623.83,20.0,11524.77,46099.06,Net Banking,Delivered
+ORD00168,CUST0008,50.0,Male,Jaipur,2024-11-02,Jeans,Clothing,3,1584.34,10.0,475.3,4277.72,UPI,Delivered
+ORD00169,CUST0039,34.0,Female,Delhi,2024-01-31,Backpack,Accessories,2,3178.51,10.0,635.7,5721.32,Debit Card,Delivered
+ORD00170,CUST0105,28.0,Other,Lucknow,2023-03-26,Running Shoes,Footwear,2,5643.26,25.0,2821.63,8464.89,Net Banking,Delivered
+ORD00171,CUST0003,38.0,Other,Chennai,2023-12-02,Novel,Books,1,375.26,25.0,93.81,281.45,UPI,Delivered
+ORD00172,CUST0069,59.0,Female,Pune,2023-02-13,Headphones,Electronics,1,5983.47,25.0,1495.87,4487.6,UPI,Delivered
+ORD00173,CUST0073,53.0,Other,Lucknow,2023-02-28,Jeans,Clothing,3,2205.83,0.0,0.0,6617.49,Net Banking,Delivered
+ORD00174,CUST0022,33.0,Male,Jaipur,2024-03-24,Laptop,Electronics,2,50711.18,0.0,0.0,101422.36,Debit Card,Delivered
+ORD00175,CUST0038,33.0,Female,Kolkata,2024-09-11,Running Shoes,Footwear,2,3098.42,5.0,309.84,5887.0,Net Banking,Cancelled
+ORD00176,CUST0041,26.0,Other,Pune,2024-06-26,Water Bottle,Accessories,2,809.47,10.0,161.89,1457.05,Net Banking,Delivered
+ORD00177,CUST0023,55.0,Male,Kolkata,2023-07-10,T-Shirt,Clothing,1,1451.62,15.0,217.74,1233.88,Cash on Delivery,Delivered
+ORD00178,CUST0138,29.0,Other,Ahmedabad,2024-04-01,Smartphone,Electronics,1,20638.63,5.0,1031.93,19606.7,Cash on Delivery,Delivered
+ORD00179,CUST0102,26.0,Male,Jaipur,2024-04-07,T-Shirt,Clothing,3,446.16,5.0,66.92,1271.56,Net Banking,Returned
+ORD00180,CUST0014,29.0,Male,Delhi,2024-07-09,Desk Chair,Furniture,1,7821.03,10.0,782.1,7038.93,UPI,Cancelled
+ORD00181,CUST0030,55.0,Other,Kolkata,2023-07-25,Running Shoes,Footwear,1,3690.15,5.0,184.51,3505.64,Debit Card,Shipped
+ORD00182,CUST0014,29.0,Male,Delhi,2024-07-18,Running Shoes,Footwear,1,3902.9,5.0,195.15,3707.75,Cash on Delivery,Cancelled
+ORD00183,CUST0004,21.0,Male,Hyderabad,2024-05-05,Jeans,Clothing,2,1674.95,20.0,669.98,2679.92,Net Banking,Shipped
+ORD00184,CUST0145,33.0,Male,Chennai,2023-03-17,Smartphone,Electronics,1,16135.78,15.0,2420.37,13715.41,Net Banking,Delivered
+ORD00185,CUST0027,23.0,Male,Chennai,2024-10-17,Headphones,Electronics,3,7206.74,20.0,4324.04,17296.18,Debit Card,Shipped
+ORD00186,CUST0007,48.0,Female,Delhi,2023-05-08,Backpack,Accessories,3,2057.3,20.0,1234.38,4937.52,Debit Card,Delivered
+ORD00187,CUST0023,55.0,Male,Kolkata,2024-06-15,Running Shoes,Footwear,1,5692.27,10.0,569.23,5123.04,Credit Card,Delivered
+ORD00188,CUST0133,44.0,Female,Pune,2024-06-30,Jeans,Clothing,1,1074.37,0.0,0.0,1074.37,Cash on Delivery,Delivered
+ORD00189,CUST0148,24.0,Male,Hyderabad,2024-09-11,Headphones,Electronics,2,2612.8,10.0,522.56,4703.04,Cash on Delivery,Delivered
+ORD00190,CUST0015,22.0,Other,Hyderabad,2024-08-13,Smartphone,Electronics,2,13500.24,10.0,2700.05,24300.43,Debit Card,Shipped
+ORD00191,CUST0064,28.0,Male,Chennai,2024-10-04,Cookbook,Books,1,746.29,20.0,149.26,597.03,UPI,Delivered
+ORD00192,CUST0005,21.0,Other,Hyderabad,2024-02-20,Water Bottle,Accessories,3,394.9,10.0,118.47,1066.23,Net Banking,Delivered
+ORD00193,CUST0001,52.0,Male,Delhi,2023-07-28,Headphones,Electronics,1,4357.44,10.0,435.74,3921.7,Cash on Delivery,Delivered
+ORD00194,CUST0014,29.0,Male,Delhi,2024-02-13,Monitor,Electronics,1,24796.4,5.0,1239.82,23556.58,UPI,Delivered
+ORD00195,CUST0025,20.0,Female,Ahmedabad,2024-04-05,Running Shoes,Footwear,1,2435.17,5.0,121.76,2313.41,,Delivered
+ORD00196,CUST0029,60.0,Other,Bangalore,2023-06-13,Backpack,Accessories,1,3105.08,10.0,310.51,2794.57,Cash on Delivery,Shipped
+ORD00197,CUST0008,50.0,Male,Jaipur,2024-05-25,Headphones,Electronics,2,4738.73,10.0,947.75,8529.71,Net Banking,Delivered
+ORD00198,CUST0052,24.0,Other,Lucknow,2024-08-20,Novel,Books,1,473.34,10.0,47.33,426.01,Credit Card,Delivered
+ORD00199,CUST0104,34.0,Male,Chennai,2024-04-26,Cookbook,Books,2,916.64,10.0,183.33,1649.95,Cash on Delivery,Delivered
+ORD00200,CUST0026,57.0,Other,Lucknow,2024-01-10,Backpack,Accessories,1,987.41,15.0,148.11,839.3,UPI,Delivered
+ORD00201,CUST0027,23.0,Male,Chennai,2023-10-23,Cookbook,Books,1,692.27,0.0,0.0,692.27,Net Banking,Delivered
+ORD00202,CUST0132,53.0,Male,Chennai,2024-09-17,Jeans,Clothing,2,2614.68,0.0,0.0,5229.36,Debit Card,Returned
+ORD00203,CUST0052,24.0,Other,Lucknow,2024-01-10,Running Shoes,Footwear,1,5035.02,5.0,251.75,4783.27,Debit Card,Delivered
+ORD00204,CUST0056,50.0,Male,Delhi,2024-12-31,Novel,Books,1,223.15,10.0,22.32,200.83,Net Banking,Delivered
+ORD00205,CUST0017,22.0,Male,Jaipur,2024-09-19,Cookbook,Books,1,924.19,10.0,92.42,831.77,Debit Card,Delivered
+ORD00206,CUST0004,21.0,Male,Hyderabad,2024-06-29,Cookbook,Books,3,534.46,15.0,240.51,1362.87,Cash on Delivery,Delivered
+ORD00207,CUST0009,51.0,Male,Delhi,2024-03-02,Running Shoes,Footwear,1,2855.83,20.0,571.17,2284.66,UPI,Shipped
+ORD00208,CUST0014,29.0,Male,Delhi,2024-08-15,Cookbook,Books,5,631.21,20.0,631.21,2524.84,Debit Card,Shipped
+ORD00209,CUST0149,42.0,Other,Bangalore,2024-09-26,Water Bottle,Accessories,2,335.41,15.0,100.62,570.2,Debit Card,Shipped
+ORD00210,CUST0005,21.0,Other,Hyderabad,2023-07-15,Laptop,Electronics,2,67902.81,0.0,0.0,135805.62,Net Banking,Delivered
+ORD00211,CUST0018,33.0,Other,Lucknow,2024-09-18,Backpack,Accessories,1,2601.45,15.0,390.22,2211.23,Credit Card,Shipped
+ORD00212,CUST0116,41.0,Male,Delhi,2024-05-04,T-Shirt,Clothing,5,972.06,20.0,972.06,3888.24,Net Banking,Delivered
+ORD00213,CUST0029,60.0,Other,Bangalore,2023-12-29,Water Bottle,Accessories,1,928.7,25.0,232.18,696.52,UPI,Delivered
+ORD00214,CUST0009,51.0,Male,Delhi,2023-11-01,T-Shirt,Clothing,1,633.81,10.0,63.38,570.43,Debit Card,Delivered
+ORD00215,CUST0101,39.0,Male,Hyderabad,2023-10-08,Running Shoes,Footwear,2,3554.08,10.0,710.82,6397.34,Credit Card,Delivered
+ORD00216,CUST0129,60.0,Male,Mumbai,2023-12-20,Backpack,Accessories,1,3196.71,5.0,159.84,3036.87,UPI,Delivered
+ORD00217,CUST0011,21.0,Female,Kolkata,2024-05-05,Running Shoes,Footwear,2,5641.85,5.0,564.18,10719.52,Debit Card,Shipped
+ORD00218,CUST0019,43.0,Female,Mumbai,2024-09-22,Novel,Books,1,616.7,25.0,154.18,462.52,Cash on Delivery,Delivered
+ORD00219,CUST0026,57.0,Other,Lucknow,2023-08-27,Desk Chair,Furniture,1,13956.93,0.0,0.0,13956.93,Credit Card,Delivered
+ORD00220,CUST0092,49.0,Male,Lucknow,2024-07-17,Smartphone,Electronics,1,34479.34,5.0,1723.97,32755.37,Net Banking,Delivered
+ORD00221,CUST0094,21.0,Other,Hyderabad,2023-10-22,Water Bottle,Accessories,3,719.43,10.0,215.83,1942.46,UPI,Delivered
+ORD00222,CUST0016,56.0,Male,Hyderabad,2023-02-08,Desk Chair,Furniture,2,10315.04,5.0,1031.5,19598.58,Net Banking,Cancelled
+ORD00223,CUST0001,52.0,Male,Delhi,2024-05-22,Laptop,Electronics,1,84886.87,5.0,4244.34,80642.53,UPI,Cancelled
+ORD00224,CUST0005,21.0,Other,Hyderabad,2023-12-10,Jeans,Clothing,1,2048.52,10.0,204.85,1843.67,Net Banking,Returned
+ORD00225,CUST0129,60.0,Male,Mumbai,2024-05-31,Novel,Books,4,495.35,15.0,297.21,1684.19,UPI,Delivered
+ORD00226,CUST0028,44.0,Female,Mumbai,2023-09-21,Running Shoes,Footwear,1,2062.72,25.0,515.68,1547.04,Debit Card,Delivered
+ORD00227,CUST0023,55.0,Male,Kolkata,2023-06-29,Jeans,Clothing,3,2048.12,20.0,1228.87,4915.49,Net Banking,Shipped
+ORD00228,CUST0114,52.0,Female,Delhi,2023-07-09,Running Shoes,Footwear,2,1706.67,5.0,170.67,3242.67,Net Banking,Delivered
+ORD00229,CUST0008,50.0,Male,Jaipur,2023-10-01,Laptop,Electronics,1,55431.41,10.0,5543.14,49888.27,UPI,Delivered
+ORD00230,CUST0144,60.0,Male,Delhi,2023-08-30,Laptop,Electronics,1,55462.13,0.0,0.0,55462.13,Credit Card,Delivered
+ORD00231,CUST0022,33.0,Male,Jaipur,2024-12-21,Backpack,Accessories,4,2588.61,10.0,1035.44,9319.0,Credit Card,Delivered
+ORD00232,CUST0002,21.0,Other,Mumbai,2023-05-17,Running Shoes,Footwear,1,4187.74,15.0,628.16,3559.58,Debit Card,Delivered
+ORD00233,CUST0042,60.0,Female,Lucknow,2024-07-04,Backpack,Accessories,4,2634.63,25.0,2634.63,7903.89,Debit Card,Shipped
+ORD00234,CUST0012,50.0,Male,Mumbai,2023-03-21,Novel,Books,2,467.05,20.0,186.82,747.28,Credit Card,Delivered
+ORD00235,CUST0131,40.0,Female,Jaipur,2023-06-18,Novel,Books,2,320.29,10.0,64.06,576.52,Cash on Delivery,Delivered
+ORD00236,CUST0016,56.0,Male,Hyderabad,2024-06-06,Monitor,Electronics,1,17913.51,15.0,2687.03,15226.48,Credit Card,Delivered
+ORD00237,CUST0113,27.0,Male,Ahmedabad,2024-04-18,Backpack,Accessories,1,1923.72,25.0,480.93,1442.79,UPI,Shipped
+ORD00238,CUST0053,22.0,Other,Pune,2024-08-15,Jeans,Clothing,2,2595.2,0.0,0.0,5190.4,Credit Card,Delivered
+ORD00239,CUST0003,38.0,Other,Chennai,2023-03-12,Novel,Books,4,795.47,15.0,477.28,2704.6,Credit Card,Delivered
+ORD00240,CUST0003,38.0,Other,Chennai,2024-10-23,Headphones,Electronics,5,6477.88,15.0,4858.41,27530.99,UPI,Returned
+ORD00241,CUST0046,38.0,Male,Jaipur,2024-01-20,Water Bottle,Accessories,4,894.7,0.0,0.0,3578.8,Cash on Delivery,Delivered
+ORD00242,CUST0029,60.0,Other,Bangalore,2024-06-25,Smartphone,Electronics,2,17889.63,5.0,1788.96,33990.3,Debit Card,Shipped
+ORD00243,CUST0012,50.0,Male,Mumbai,2024-03-10,Jeans,Clothing,2,1817.61,20.0,727.04,2908.18,Net Banking,Shipped
+ORD00244,CUST0007,48.0,Female,Delhi,2023-04-26,Water Bottle,Accessories,1,475.93,0.0,0.0,475.93,Net Banking,Delivered
+ORD00245,CUST0009,51.0,Male,Delhi,2023-02-04,T-Shirt,Clothing,1,546.3,15.0,81.94,464.36,Cash on Delivery,Delivered
+ORD00246,CUST0025,20.0,Female,Ahmedabad,2023-08-28,T-Shirt,Clothing,1,1187.65,20.0,237.53,950.12,Debit Card,Shipped
+ORD00247,CUST0029,60.0,Other,Bangalore,2024-08-12,Headphones,Electronics,1,4775.32,10.0,477.53,4297.79,Cash on Delivery,Delivered
+ORD00248,CUST0015,22.0,Other,Hyderabad,2024-11-07,T-Shirt,Clothing,1,661.12,20.0,132.22,528.9,Debit Card,Delivered
+ORD00249,CUST0021,54.0,Other,Hyderabad,2023-06-29,Laptop,Electronics,2,67268.72,25.0,33634.36,100903.08,Net Banking,Delivered
+ORD00250,CUST0025,20.0,Female,Ahmedabad,2024-06-21,Running Shoes,Footwear,2,5724.46,10.0,1144.89,10304.03,Net Banking,Delivered
+ORD00251,CUST0004,21.0,Male,Hyderabad,2023-09-04,Backpack,Accessories,2,1132.25,5.0,113.22,2151.28,UPI,Cancelled
+ORD00252,CUST0014,29.0,Male,Delhi,2024-03-02,Water Bottle,Accessories,2,930.79,20.0,372.32,1489.26,Cash on Delivery,Delivered
+ORD00253,CUST0005,21.0,Other,Hyderabad,2024-04-05,Jeans,Clothing,2,1246.34,10.0,249.27,2243.41,Credit Card,Delivered
+ORD00254,CUST0008,50.0,Male,Jaipur,2024-09-09,Laptop,Electronics,2,55738.46,0.0,0.0,111476.92,Credit Card,Delivered
+ORD00255,CUST0137,28.0,Female,Bangalore,2023-12-07,T-Shirt,Clothing,3,874.27,10.0,262.28,2360.53,Credit Card,Delivered
+ORD00256,CUST0008,50.0,Male,Jaipur,2024-05-05,Monitor,Electronics,5,9994.38,5.0,2498.59,47473.31,Cash on Delivery,Shipped
+ORD00257,CUST0054,52.0,Male,Lucknow,2024-01-25,T-Shirt,Clothing,3,961.5,15.0,432.68,2451.82,Cash on Delivery,Delivered
+ORD00258,CUST0008,50.0,Male,Jaipur,2024-04-22,Jeans,Clothing,4,1590.22,0.0,0.0,6360.88,Net Banking,Shipped
+ORD00259,CUST0014,29.0,Male,Delhi,2024-07-30,T-Shirt,Clothing,1,743.85,5.0,37.19,706.66,Debit Card,Delivered
+ORD00260,CUST0134,57.0,Female,Delhi,2023-06-06,Cookbook,Books,1,704.4,5.0,35.22,669.18,UPI,Delivered
+ORD00261,CUST0142,39.0,Other,Bangalore,2024-12-02,T-Shirt,Clothing,2,898.16,10.0,179.63,1616.69,UPI,Shipped
+ORD00262,CUST0101,39.0,Male,Hyderabad,2023-06-22,Monitor,Electronics,1,18908.81,25.0,4727.2,14181.61,UPI,Delivered
+ORD00263,CUST0130,24.0,Male,Delhi,2024-10-19,Water Bottle,Accessories,4,346.24,0.0,0.0,1384.96,Cash on Delivery,Delivered
+ORD00264,CUST0009,51.0,Male,Delhi,2023-05-21,Desk Chair,Furniture,1,4532.71,25.0,1133.18,3399.53,Debit Card,Delivered
+ORD00265,CUST0018,33.0,Other,Lucknow,2023-03-03,Laptop,Electronics,1,53748.79,20.0,10749.76,42999.03,Cash on Delivery,Cancelled
+ORD00266,CUST0100,18.0,Female,Bangalore,2023-01-13,Laptop,Electronics,2,45264.49,0.0,0.0,90528.98,Cash on Delivery,Shipped
+ORD00267,CUST0125,20.0,Female,Ahmedabad,2024-11-21,Jeans,Clothing,3,836.71,15.0,376.52,2133.61,Debit Card,Delivered
+ORD00268,CUST0020,25.0,Male,Jaipur,2024-06-23,Novel,Books,1,288.34,10.0,28.83,259.51,UPI,Delivered
+ORD00269,CUST0054,52.0,Male,Lucknow,2024-08-01,Smartphone,Electronics,1,24310.7,5.0,1215.54,23095.16,Debit Card,Delivered
+ORD00270,CUST0012,50.0,Male,Mumbai,2023-02-02,Desk Chair,Furniture,2,14908.41,0.0,0.0,29816.82,Net Banking,Delivered
+ORD00271,CUST0133,44.0,Female,Pune,2023-06-25,Water Bottle,Accessories,1,243.89,0.0,0.0,243.89,Net Banking,Shipped
+ORD00272,CUST0020,25.0,Male,Jaipur,2024-06-24,Cookbook,Books,5,983.13,0.0,0.0,4915.65,Debit Card,Delivered
+ORD00273,CUST0141,29.0,Other,Jaipur,2024-12-01,Water Bottle,Accessories,4,415.88,10.0,166.35,1497.17,Cash on Delivery,Delivered
+ORD00274,CUST0017,22.0,Male,Jaipur,2023-08-01,Headphones,Electronics,1,7536.98,20.0,1507.4,6029.58,Debit Card,Shipped
+ORD00275,CUST0054,52.0,Male,Lucknow,2024-08-03,Smartphone,Electronics,2,21876.14,15.0,6562.84,37189.44,Cash on Delivery,Delivered
+ORD00276,CUST0012,50.0,Male,Mumbai,2023-12-21,Monitor,Electronics,2,20310.78,0.0,0.0,40621.56,Credit Card,Delivered
+ORD00277,CUST0009,51.0,Male,Delhi,2024-09-01,Running Shoes,Footwear,2,4143.29,15.0,1242.99,7043.59,UPI,Delivered
+ORD00278,CUST0020,25.0,Male,Jaipur,2024-01-20,Water Bottle,Accessories,1,591.48,15.0,88.72,502.76,Debit Card,Delivered
+ORD00279,CUST0045,47.0,Female,Ahmedabad,2023-09-10,Smartphone,Electronics,1,37481.52,25.0,9370.38,28111.14,Credit Card,Delivered
+ORD00280,CUST0019,43.0,Female,Mumbai,2024-02-03,Backpack,Accessories,2,2662.86,10.0,532.57,4793.15,UPI,Delivered
+ORD00281,CUST0003,38.0,Other,Chennai,2023-04-15,Jeans,Clothing,3,1777.42,5.0,266.61,5065.65,Credit Card,Delivered
+ORD00282,CUST0080,24.0,Female,Chennai,2023-01-27,Novel,Books,1,531.84,0.0,0.0,531.84,UPI,Delivered
+ORD00283,CUST0017,22.0,Male,Jaipur,2023-03-28,Backpack,Accessories,1,634.79,25.0,158.7,476.09,Cash on Delivery,Cancelled
+ORD00284,CUST0005,21.0,Other,Hyderabad,2023-06-23,Cookbook,Books,2,663.77,5.0,66.38,1261.16,UPI,Delivered
+ORD00285,CUST0103,58.0,Male,Jaipur,2024-03-07,Headphones,Electronics,1,1911.24,10.0,191.12,1720.12,Net Banking,Shipped
+ORD00286,CUST0035,31.0,Other,Pune,2024-05-22,Jeans,Clothing,2,2876.29,20.0,1150.52,4602.06,Cash on Delivery,Delivered
+ORD00287,CUST0025,20.0,Female,Ahmedabad,2023-12-07,Headphones,Electronics,4,3480.28,20.0,2784.22,11136.9,Net Banking,Shipped
+ORD00288,CUST0019,43.0,Female,Mumbai,2024-10-28,Water Bottle,Accessories,3,466.79,20.0,280.07,1120.3,Debit Card,Delivered
+ORD00289,CUST0013,23.0,Male,Mumbai,2023-11-23,Water Bottle,Accessories,5,450.35,10.0,225.18,2026.57,Net Banking,Returned
+ORD00290,CUST0005,21.0,Other,Hyderabad,2024-02-07,Running Shoes,Footwear,3,3066.46,10.0,919.94,8279.44,Credit Card,Cancelled
+ORD00291,CUST0013,23.0,Male,Mumbai,2024-07-17,Cookbook,Books,1,997.09,0.0,0.0,997.09,Net Banking,Cancelled
+ORD00292,CUST0018,33.0,Other,Lucknow,2023-03-12,Water Bottle,Accessories,3,837.15,15.0,376.72,2134.73,Net Banking,Delivered
+ORD00293,CUST0006,55.0,Female,Bangalore,2024-03-09,T-Shirt,Clothing,1,602.22,15.0,90.33,511.89,Credit Card,Delivered
+ORD00294,CUST0096,58.0,Male,Kolkata,2024-12-09,Cookbook,Books,2,579.56,15.0,173.87,985.25,Cash on Delivery,Delivered
+ORD00295,CUST0035,31.0,Other,Pune,2024-10-15,Monitor,Electronics,2,23223.53,0.0,0.0,46447.06,Credit Card,Shipped
+ORD00296,CUST0032,51.0,Male,Chennai,2024-10-22,Headphones,Electronics,1,5705.5,25.0,1426.38,4279.12,Net Banking,Returned
+ORD00297,CUST0020,25.0,Male,Jaipur,2023-08-16,Backpack,Accessories,1,906.24,20.0,181.25,724.99,Cash on Delivery,Delivered
+ORD00298,CUST0145,33.0,Male,Chennai,2024-11-26,T-Shirt,Clothing,1,833.93,20.0,166.79,667.14,Cash on Delivery,Delivered
+ORD00299,CUST0013,23.0,Male,Mumbai,2023-03-29,Water Bottle,Accessories,1,282.64,0.0,0.0,282.64,Debit Card,Delivered
+ORD00300,CUST0026,57.0,Other,Lucknow,2023-12-23,Water Bottle,Accessories,2,826.42,15.0,247.93,1404.91,Credit Card,Delivered
+ORD00301,CUST0082,27.0,Male,Hyderabad,2024-12-28,Running Shoes,Footwear,1,1614.72,0.0,0.0,1614.72,Credit Card,Shipped
+ORD00302,CUST0026,57.0,Other,Lucknow,2023-09-07,Desk Chair,Furniture,4,12800.35,20.0,10240.28,40961.12,Debit Card,Delivered
+ORD00303,CUST0020,25.0,Male,Jaipur,2024-02-19,Novel,Books,1,454.82,25.0,113.7,341.12,Debit Card,Delivered
+ORD00304,CUST0072,60.0,Male,Delhi,2023-07-22,Backpack,Accessories,2,683.66,15.0,205.1,1162.22,Cash on Delivery,Delivered
+ORD00305,CUST0003,38.0,Other,Chennai,2024-12-21,Monitor,Electronics,1,11651.53,0.0,0.0,11651.53,Cash on Delivery,Delivered
+ORD00306,CUST0125,20.0,Female,Ahmedabad,2023-04-27,Headphones,Electronics,1,3877.65,10.0,387.76,3489.89,Net Banking,Delivered
+ORD00307,CUST0011,21.0,Female,Kolkata,2023-04-27,Cookbook,Books,1,571.05,10.0,57.1,513.95,UPI,Shipped
+ORD00308,CUST0029,60.0,Other,Bangalore,2024-09-21,Desk Chair,Furniture,1,11765.58,20.0,2353.12,9412.46,Credit Card,Delivered
+ORD00309,CUST0011,21.0,Female,Kolkata,2024-01-18,Smartphone,Electronics,1,19872.9,25.0,4968.23,14904.67,Debit Card,Delivered
+ORD00310,CUST0065,46.0,Female,Ahmedabad,2023-07-10,Cookbook,Books,1,395.51,15.0,59.33,336.18,Cash on Delivery,Delivered
+ORD00311,CUST0029,60.0,Other,Bangalore,2023-07-11,Novel,Books,1,299.12,10.0,29.91,269.21,Net Banking,Delivered
+ORD00312,CUST0034,34.0,Other,Hyderabad,2024-01-29,Laptop,Electronics,1,64384.36,20.0,12876.87,51507.49,Cash on Delivery,Delivered
+ORD00313,CUST0060,22.0,Other,Delhi,2024-03-30,Desk Chair,Furniture,2,9408.48,15.0,2822.54,15994.42,Debit Card,Delivered
+ORD00314,CUST0016,56.0,Male,Hyderabad,2024-07-04,T-Shirt,Clothing,1,649.51,10.0,64.95,584.56,Debit Card,Shipped
+ORD00315,CUST0140,19.0,Other,Chennai,2024-06-07,Monitor,Electronics,1,21133.31,0.0,0.0,21133.31,Cash on Delivery,Delivered
+ORD00316,CUST0129,60.0,Male,Mumbai,2024-03-27,Running Shoes,Footwear,3,3846.6,20.0,2307.96,9231.84,Debit Card,Returned
+ORD00317,CUST0023,55.0,Male,Kolkata,2023-11-01,Monitor,Electronics,3,22111.2,0.0,0.0,66333.6,Net Banking,Delivered
+ORD00318,CUST0015,22.0,Other,Hyderabad,2023-08-31,Water Bottle,Accessories,1,891.23,5.0,44.56,846.67,Cash on Delivery,Delivered
+ORD00319,CUST0070,51.0,Other,Hyderabad,2023-07-31,Headphones,Electronics,3,5504.98,0.0,0.0,16514.94,Cash on Delivery,Delivered
+ORD00320,CUST0024,56.0,Other,Hyderabad,2024-12-21,Cookbook,Books,1,676.14,10.0,67.61,608.53,UPI,Delivered
+ORD00321,CUST0114,52.0,Female,Delhi,2024-02-26,Desk Chair,Furniture,1,12966.81,0.0,0.0,12966.81,UPI,Cancelled
+ORD00322,CUST0005,21.0,Other,Hyderabad,2024-12-29,Monitor,Electronics,1,22723.34,10.0,2272.33,20451.01,Debit Card,Shipped
+ORD00323,CUST0052,24.0,Other,Lucknow,2024-10-04,Water Bottle,Accessories,2,312.74,15.0,93.82,531.66,Net Banking,Delivered
+ORD00324,CUST0018,33.0,Other,Lucknow,2024-01-13,Backpack,Accessories,1,2094.28,15.0,314.14,1780.14,Net Banking,Delivered
+ORD00325,CUST0002,21.0,Other,Mumbai,2024-10-12,Monitor,Electronics,5,9583.41,25.0,11979.26,35937.79,UPI,Cancelled
+ORD00326,CUST0124,41.0,Female,Lucknow,2023-08-05,Backpack,Accessories,1,1230.71,15.0,184.61,1046.1,UPI,Delivered
+ORD00327,CUST0026,57.0,Other,Lucknow,2024-05-11,Running Shoes,Footwear,1,3871.36,10.0,387.14,3484.22,Credit Card,Delivered
+ORD00328,CUST0086,31.0,Female,Mumbai,2024-03-27,Laptop,Electronics,3,49969.49,15.0,22486.27,127422.2,Credit Card,Returned
+ORD00329,CUST0070,51.0,Other,Hyderabad,2024-10-27,T-Shirt,Clothing,4,1493.83,10.0,597.53,5377.79,Debit Card,Cancelled
+ORD00330,CUST0021,54.0,Other,Hyderabad,2024-01-16,Smartphone,Electronics,1,33601.4,25.0,8400.35,25201.05,Debit Card,Delivered
+ORD00331,CUST0007,48.0,Female,Delhi,2024-11-02,Monitor,Electronics,1,19890.5,0.0,0.0,19890.5,Credit Card,Delivered
+ORD00332,CUST0095,23.0,Other,Ahmedabad,2024-11-27,Smartphone,Electronics,1,16379.09,15.0,2456.86,13922.23,Credit Card,Delivered
+ORD00333,CUST0026,57.0,Other,Lucknow,2023-05-16,Smartphone,Electronics,1,44609.11,15.0,6691.37,37917.74,Credit Card,Delivered
+ORD00334,CUST0016,56.0,Male,Hyderabad,2024-01-12,Monitor,Electronics,1,21701.27,10.0,2170.13,19531.14,Debit Card,Delivered
+ORD00335,CUST0009,51.0,Male,Delhi,2024-06-27,Desk Chair,Furniture,1,14922.33,20.0,2984.47,11937.86,Credit Card,Delivered
+ORD00336,CUST0025,20.0,Female,Ahmedabad,2023-06-05,Water Bottle,Accessories,1,479.95,15.0,71.99,407.96,Cash on Delivery,Delivered
+ORD00337,CUST0022,33.0,Male,Jaipur,2023-05-07,Smartphone,Electronics,1,41587.57,20.0,8317.51,33270.06,Net Banking,Delivered
+ORD00338,CUST0070,51.0,Other,Hyderabad,2024-10-22,Running Shoes,Footwear,1,5017.06,0.0,0.0,5017.06,Debit Card,Delivered
+ORD00339,CUST0026,57.0,Other,Lucknow,2023-11-05,Monitor,Electronics,3,8456.01,5.0,1268.4,24099.63,Cash on Delivery,Delivered
+ORD00340,CUST0007,48.0,Female,Delhi,2023-09-03,Monitor,Electronics,2,14659.77,15.0,4397.93,24921.61,Net Banking,Delivered
+ORD00341,CUST0106,46.0,Female,Kolkata,2023-01-13,Desk Chair,Furniture,2,10532.82,10.0,2106.56,18959.08,UPI,Delivered
+ORD00342,CUST0142,39.0,Other,Bangalore,2024-04-27,Backpack,Accessories,2,1658.7,0.0,0.0,3317.4,Credit Card,Delivered
+ORD00343,CUST0008,50.0,Male,Jaipur,2024-02-12,Jeans,Clothing,4,1273.63,20.0,1018.9,4075.62,UPI,Delivered
+ORD00344,CUST0107,53.0,Male,Lucknow,2024-10-17,Backpack,Accessories,1,1827.37,20.0,365.47,1461.9,Cash on Delivery,Delivered
+ORD00345,CUST0023,55.0,Male,Kolkata,2023-07-28,Smartphone,Electronics,2,22226.93,5.0,2222.69,42231.17,Cash on Delivery,Delivered
+ORD00346,CUST0004,21.0,Male,Hyderabad,2023-09-02,Jeans,Clothing,2,2336.09,0.0,0.0,4672.18,Debit Card,Delivered
+ORD00347,CUST0073,53.0,Other,Lucknow,2023-11-13,Smartphone,Electronics,2,26961.27,25.0,13480.64,40441.9,Debit Card,Delivered
+ORD00348,CUST0011,21.0,Female,Kolkata,2023-12-22,Monitor,Electronics,1,8192.96,20.0,1638.59,6554.37,Cash on Delivery,Shipped
+ORD00349,CUST0013,23.0,Male,Mumbai,2023-10-03,Headphones,Electronics,2,3917.15,25.0,1958.58,5875.72,Credit Card,Shipped
+ORD00350,CUST0016,56.0,Male,Hyderabad,2023-03-07,Running Shoes,Footwear,1,5092.41,10.0,509.24,4583.17,Cash on Delivery,Delivered
+ORD00351,CUST0105,28.0,Other,Lucknow,2024-08-03,Water Bottle,Accessories,1,607.63,5.0,30.38,577.25,UPI,Delivered
+ORD00352,CUST0023,55.0,Male,Kolkata,2024-06-05,Cookbook,Books,1,770.88,0.0,0.0,770.88,Credit Card,Cancelled
+ORD00353,CUST0007,48.0,Female,Delhi,2023-06-03,T-Shirt,Clothing,1,354.18,5.0,17.71,336.47,Credit Card,Delivered
+ORD00354,CUST0065,46.0,Female,Ahmedabad,2023-11-24,T-Shirt,Clothing,1,685.16,10.0,68.52,616.64,Credit Card,Delivered
+ORD00355,CUST0002,21.0,Other,Mumbai,2023-08-17,Novel,Books,1,603.0,20.0,120.6,482.4,Credit Card,Returned
+ORD00356,CUST0006,55.0,Female,Bangalore,2023-11-15,Water Bottle,Accessories,3,891.83,10.0,267.55,2407.94,Credit Card,Delivered
+ORD00357,CUST0005,21.0,Other,Hyderabad,2023-11-08,Running Shoes,Footwear,2,2242.15,25.0,1121.08,3363.22,Cash on Delivery,Delivered
+ORD00358,CUST0039,34.0,Female,Delhi,2023-07-20,Cookbook,Books,5,979.3,25.0,1224.12,3672.38,Cash on Delivery,Shipped
+ORD00359,CUST0006,55.0,Female,Bangalore,2023-08-27,Headphones,Electronics,1,1541.46,20.0,308.29,1233.17,UPI,Delivered
+ORD00360,CUST0005,21.0,Other,Hyderabad,2023-11-11,Running Shoes,Footwear,2,1305.87,0.0,0.0,2611.74,Debit Card,Delivered
+ORD00361,CUST0002,21.0,Other,Mumbai,2023-05-26,Backpack,Accessories,1,2025.88,25.0,506.47,1519.41,UPI,Delivered
+ORD00362,CUST0029,,Other,Bangalore,2024-04-14,Novel,Books,4,446.83,25.0,446.83,1340.49,Credit Card,Delivered
+ORD00363,CUST0109,53.0,Male,Pune,2024-08-29,Headphones,Electronics,1,5641.9,20.0,1128.38,4513.52,Credit Card,Delivered
+ORD00364,CUST0007,48.0,Female,Delhi,2024-02-07,T-Shirt,Clothing,3,649.01,25.0,486.76,1460.27,UPI,Delivered
+ORD00365,CUST0020,25.0,Male,Jaipur,2024-08-21,T-Shirt,Clothing,1,388.62,0.0,0.0,388.62,Debit Card,Delivered
+ORD00366,CUST0081,53.0,Female,Jaipur,2024-01-02,Water Bottle,Accessories,1,450.23,5.0,22.51,427.72,Net Banking,Delivered
+ORD00367,CUST0016,56.0,Male,Hyderabad,2023-11-08,Smartphone,Electronics,3,14983.89,25.0,11237.92,33713.75,Cash on Delivery,Delivered
+ORD00368,CUST0018,33.0,Other,Lucknow,2023-12-31,Headphones,Electronics,1,2092.88,15.0,313.93,1778.95,Cash on Delivery,Delivered
+ORD00369,CUST0004,21.0,Male,Hyderabad,2024-02-19,Jeans,Clothing,1,2603.2,15.0,390.48,2212.72,Cash on Delivery,Shipped
+ORD00370,CUST0008,50.0,Male,Jaipur,2023-05-24,Smartphone,Electronics,3,27247.43,0.0,0.0,81742.29,Credit Card,Delivered
+ORD00371,CUST0024,56.0,Other,Hyderabad,2024-12-03,Headphones,Electronics,1,2787.86,25.0,696.97,2090.89,Credit Card,Delivered
+ORD00372,CUST0013,23.0,Male,Mumbai,2024-10-23,Smartphone,Electronics,1,12719.41,15.0,1907.91,10811.5,,Delivered
+ORD00373,CUST0020,25.0,Male,Jaipur,2023-06-22,Smartphone,Electronics,1,13408.98,20.0,2681.8,10727.18,Net Banking,Shipped
+ORD00374,CUST0053,22.0,Other,Pune,2023-06-26,Water Bottle,Accessories,2,222.59,10.0,44.52,400.66,Debit Card,Cancelled
+ORD00375,CUST0021,,Other,Hyderabad,2024-09-20,Jeans,Clothing,1,1780.23,20.0,356.05,1424.18,Cash on Delivery,Delivered
+ORD00376,CUST0002,21.0,Other,Mumbai,2023-03-04,Water Bottle,Accessories,2,528.59,0.0,0.0,1057.18,UPI,Delivered
+ORD00377,CUST0065,46.0,Female,Ahmedabad,2023-09-13,T-Shirt,Clothing,3,1070.18,25.0,802.63,2407.91,Cash on Delivery,Shipped
+ORD00378,CUST0046,38.0,Male,Jaipur,2024-05-11,Monitor,Electronics,2,14104.91,,2820.98,25388.84,Cash on Delivery,Delivered
+ORD00379,CUST0049,47.0,Male,Delhi,2023-08-13,Jeans,Clothing,1,1194.59,0.0,0.0,1194.59,UPI,Delivered
+ORD00380,CUST0092,49.0,Male,Lucknow,2023-08-27,Novel,Books,2,413.46,5.0,41.35,785.57,Credit Card,Delivered
+ORD00381,CUST0004,21.0,Male,Hyderabad,2023-02-27,Jeans,Clothing,3,1973.12,5.0,295.97,5623.39,Cash on Delivery,Shipped
+ORD00382,CUST0049,47.0,Male,Delhi,2023-06-27,Running Shoes,Footwear,5,5694.47,5.0,1423.62,27048.73,Debit Card,Delivered
+ORD00383,CUST0034,34.0,Other,Hyderabad,2024-08-04,Cookbook,Books,2,318.74,20.0,127.5,509.98,Debit Card,Delivered
+ORD00384,CUST0007,48.0,Female,Delhi,2023-02-08,Water Bottle,Accessories,1,632.7,0.0,0.0,632.7,Credit Card,Delivered
+ORD00385,CUST0023,55.0,Male,Kolkata,2024-09-20,Laptop,Electronics,1,66057.94,5.0,3302.9,62755.04,Debit Card,Delivered
+ORD00386,CUST0001,52.0,Male,Delhi,2024-12-22,Running Shoes,Footwear,1,1578.91,5.0,78.95,1499.96,Credit Card,Shipped
+ORD00387,CUST0037,38.0,Other,Delhi,2024-02-10,Smartphone,Electronics,4,24328.5,20.0,19462.8,77851.2,Credit Card,Delivered
+ORD00388,CUST0016,56.0,Male,Hyderabad,2024-03-23,Headphones,Electronics,2,7843.09,25.0,3921.55,11764.63,Net Banking,Delivered
+ORD00389,CUST0030,55.0,Other,Kolkata,2024-09-20,Monitor,Electronics,2,24468.63,10.0,4893.73,44043.53,Debit Card,Delivered
+ORD00390,CUST0030,55.0,Other,Kolkata,2023-05-11,Backpack,Accessories,2,1488.79,5.0,148.88,2828.7,Credit Card,Cancelled
+ORD00391,CUST0144,60.0,Male,Delhi,2024-08-04,Backpack,Accessories,3,3066.2,0.0,0.0,9198.6,Debit Card,Delivered
+ORD00392,CUST0024,56.0,Other,Hyderabad,2023-05-25,Desk Chair,Furniture,4,10220.62,10.0,4088.25,36794.23,Credit Card,Delivered
+ORD00393,CUST0014,29.0,Male,Delhi,2024-12-26,Headphones,Electronics,5,5635.21,25.0,7044.01,21132.04,UPI,Delivered
+ORD00394,CUST0016,56.0,Male,Hyderabad,2023-09-20,T-Shirt,Clothing,1,598.45,0.0,0.0,598.45,Credit Card,Delivered
+ORD00395,CUST0075,60.0,Other,Jaipur,2024-02-28,Monitor,Electronics,1,15134.1,,2270.11,12863.99,Net Banking,Delivered
+ORD00396,CUST0043,59.0,Female,Chennai,2024-08-14,Smartphone,Electronics,3,39350.63,25.0,29512.97,88538.92,Debit Card,Delivered
+ORD00397,CUST0008,50.0,Male,Jaipur,2023-04-18,Laptop,Electronics,1,56796.34,0.0,0.0,56796.34,UPI,Delivered
+ORD00398,CUST0043,59.0,Female,Chennai,2023-04-06,Headphones,Electronics,2,6257.9,10.0,1251.58,11264.22,Cash on Delivery,Returned
+ORD00399,CUST0098,35.0,Female,Bangalore,2023-06-18,Monitor,Electronics,4,8526.88,20.0,6821.5,27286.02,Net Banking,Delivered
+ORD00400,CUST0022,33.0,Male,Jaipur,2024-12-14,Running Shoes,Footwear,1,2265.09,20.0,453.02,1812.07,Cash on Delivery,Delivered
+ORD00401,CUST0025,20.0,Female,Ahmedabad,2024-08-08,Jeans,Clothing,1,1321.61,20.0,264.32,1057.29,Net Banking,Delivered
+ORD00402,CUST0035,31.0,Other,Pune,2024-11-08,Laptop,Electronics,1,62104.24,25.0,15526.06,46578.18,Cash on Delivery,Delivered
+ORD00403,CUST0020,25.0,Male,Jaipur,2023-03-25,Laptop,Electronics,2,53278.12,15.0,15983.44,90572.8,Credit Card,Delivered
+ORD00404,CUST0054,52.0,Male,Lucknow,2023-04-04,Water Bottle,Accessories,2,590.28,25.0,295.14,885.42,Cash on Delivery,Delivered
+ORD00405,CUST0040,43.0,Other,Pune,2023-09-27,Backpack,Accessories,1,1670.26,15.0,250.54,1419.72,Net Banking,Delivered
+ORD00406,CUST0018,33.0,Other,Lucknow,2024-11-14,Cookbook,Books,3,342.15,0.0,0.0,1026.45,Credit Card,Delivered
+ORD00407,CUST0128,33.0,Female,Jaipur,2024-07-20,Backpack,Accessories,2,3414.05,0.0,0.0,6828.1,,Shipped
+ORD00408,CUST0065,46.0,Female,Ahmedabad,2024-08-09,Novel,Books,4,611.24,5.0,122.25,2322.71,Net Banking,Delivered
+ORD00409,CUST0053,22.0,Other,Pune,2024-06-13,Monitor,Electronics,2,8590.38,20.0,3436.15,13744.61,Cash on Delivery,Delivered
+ORD00410,CUST0080,24.0,Female,Chennai,2023-08-05,Headphones,Electronics,1,7668.9,5.0,383.44,7285.46,Debit Card,Delivered
+ORD00411,CUST0011,21.0,Female,Kolkata,2024-10-04,Desk Chair,Furniture,5,8788.76,5.0,2197.19,41746.61,Cash on Delivery,Delivered
+ORD00412,CUST0005,21.0,Other,Hyderabad,2023-11-30,Smartphone,Electronics,1,24807.27,10.0,2480.73,22326.54,Cash on Delivery,Delivered
+ORD00413,CUST0007,48.0,Female,Delhi,2024-03-05,Monitor,Electronics,2,18591.98,0.0,0.0,37183.96,Net Banking,Delivered
+ORD00414,CUST0141,29.0,Other,Jaipur,2023-04-13,Cookbook,Books,5,706.87,0.0,0.0,3534.35,Cash on Delivery,Shipped
+ORD00415,CUST0027,23.0,Male,Chennai,2023-09-28,Novel,Books,4,727.08,15.0,436.25,2472.07,Net Banking,Delivered
+ORD00416,CUST0093,34.0,Other,Pune,2024-09-25,Laptop,Electronics,1,51887.99,20.0,10377.6,41510.39,Net Banking,Delivered
+ORD00417,CUST0020,25.0,Male,Jaipur,2023-10-03,Monitor,Electronics,2,12038.85,10.0,2407.77,21669.93,Credit Card,Delivered
+ORD00418,CUST0006,55.0,Female,Bangalore,2024-12-13,Jeans,Clothing,1,1415.76,25.0,353.94,1061.82,Credit Card,Returned
+ORD00419,CUST0027,23.0,Male,Chennai,2023-11-25,Headphones,Electronics,2,3453.12,10.0,690.62,6215.62,Net Banking,Delivered
+ORD00420,CUST0016,56.0,Male,Hyderabad,2024-02-21,T-Shirt,Clothing,4,829.06,25.0,829.06,2487.18,Net Banking,Shipped
+ORD00421,CUST0042,60.0,Female,Lucknow,2023-11-15,Laptop,Electronics,1,65610.79,25.0,16402.7,49208.09,Cash on Delivery,Delivered
+ORD00422,CUST0119,27.0,Other,Kolkata,2023-07-25,Cookbook,Books,1,319.26,0.0,0.0,319.26,Debit Card,Delivered
+ORD00423,CUST0026,57.0,Other,Lucknow,2024-04-20,Running Shoes,Footwear,1,4610.78,20.0,922.16,3688.62,Net Banking,Delivered
+ORD00424,CUST0004,21.0,Male,Hyderabad,2024-08-31,Desk Chair,Furniture,1,4335.23,15.0,650.28,3684.95,Debit Card,Returned
+ORD00425,CUST0093,34.0,Other,Pune,2023-09-22,Cookbook,Books,1,684.93,25.0,171.23,513.7,Credit Card,Delivered
+ORD00426,CUST0048,18.0,Male,Kolkata,2023-08-08,Laptop,Electronics,2,51516.3,5.0,5151.63,97880.97,Debit Card,Delivered
+ORD00427,CUST0018,33.0,Other,Lucknow,2024-11-29,Desk Chair,Furniture,1,8503.99,0.0,0.0,8503.99,Net Banking,Cancelled
+ORD00428,CUST0029,60.0,Other,Bangalore,2024-09-14,Cookbook,Books,1,859.61,10.0,85.96,773.65,UPI,Delivered
+ORD00429,CUST0043,59.0,Female,Chennai,2023-11-06,Running Shoes,Footwear,1,3456.29,25.0,864.07,2592.22,Cash on Delivery,Shipped
+ORD00430,CUST0054,52.0,Male,Lucknow,2024-11-09,Cookbook,Books,2,370.62,10.0,74.12,667.12,Cash on Delivery,Delivered
+ORD00431,CUST0025,20.0,Female,Ahmedabad,2023-12-11,Jeans,Clothing,1,2304.71,10.0,230.47,2074.24,UPI,Cancelled
+ORD00432,CUST0014,29.0,Male,Delhi,2023-11-02,Desk Chair,Furniture,4,11821.74,5.0,2364.35,44922.61,Debit Card,Delivered
+ORD00433,CUST0004,21.0,Male,Hyderabad,2024-09-06,Laptop,Electronics,3,77217.19,15.0,34747.74,196903.83,UPI,Delivered
+ORD00434,CUST0014,29.0,Male,Delhi,2024-03-04,Desk Chair,Furniture,1,9470.6,15.0,1420.59,8050.01,Net Banking,Shipped
+ORD00435,CUST0149,42.0,Other,Bangalore,2023-12-18,Monitor,Electronics,3,24910.81,25.0,18683.11,56049.32,Debit Card,Delivered
+ORD00436,CUST0094,21.0,Other,Hyderabad,2023-06-24,Desk Chair,Furniture,1,7942.83,25.0,1985.71,5957.12,Cash on Delivery,Delivered
+ORD00437,CUST0020,25.0,Male,Jaipur,2024-07-26,Water Bottle,Accessories,1,301.36,5.0,15.07,286.29,UPI,Delivered
+ORD00438,CUST0024,56.0,Other,Hyderabad,2024-03-06,Running Shoes,Footwear,4,2348.64,10.0,939.46,8455.1,UPI,Delivered
+ORD00439,CUST0001,52.0,Male,Delhi,2024-10-11,Water Bottle,Accessories,1,879.97,20.0,175.99,703.98,Cash on Delivery,Cancelled
+ORD00440,CUST0007,48.0,Female,Delhi,2024-11-28,Water Bottle,Accessories,2,910.54,15.0,273.16,1547.92,Cash on Delivery,Delivered
+ORD00441,CUST0028,44.0,Female,Mumbai,2024-02-24,Headphones,Electronics,1,2392.87,20.0,478.57,1914.3,Net Banking,Delivered
+ORD00442,CUST0003,38.0,Other,Chennai,2023-07-01,Smartphone,Electronics,2,28090.17,10.0,5618.03,50562.31,Credit Card,Delivered
+ORD00443,CUST0021,54.0,Other,Hyderabad,2023-06-12,T-Shirt,Clothing,1,1212.43,15.0,181.86,1030.57,Credit Card,Delivered
+ORD00444,CUST0073,53.0,Other,Lucknow,2024-05-03,Desk Chair,Furniture,1,8722.94,15.0,1308.44,7414.5,Credit Card,Delivered
+ORD00445,CUST0013,23.0,Male,Mumbai,2023-11-26,Monitor,Electronics,1,14342.72,20.0,2868.54,11474.18,Debit Card,Delivered
+ORD00446,CUST0003,38.0,Other,Chennai,2023-12-19,Desk Chair,Furniture,1,12069.37,10.0,1206.94,10862.43,Debit Card,Delivered
+ORD00447,CUST0108,45.0,Female,Kolkata,2023-02-16,Cookbook,Books,1,513.28,10.0,51.33,461.95,UPI,Delivered
+ORD00448,CUST0117,55.0,Male,Bangalore,2024-12-04,Cookbook,Books,1,665.88,5.0,33.29,632.59,UPI,Returned
+ORD00449,CUST0101,39.0,Male,Hyderabad,2024-02-18,Running Shoes,Footwear,1,4824.54,0.0,0.0,4824.54,Debit Card,Delivered
+ORD00450,CUST0008,50.0,Male,Jaipur,2023-06-23,T-Shirt,Clothing,2,1179.89,0.0,0.0,2359.78,UPI,Shipped
+ORD00451,CUST0020,25.0,Male,Jaipur,2024-07-01,Backpack,Accessories,1,3140.98,,628.2,2512.78,Credit Card,Delivered
+ORD00452,CUST0025,20.0,Female,Ahmedabad,2023-02-19,Desk Chair,Furniture,3,5188.36,25.0,3891.27,11673.81,Credit Card,Delivered
+ORD00453,CUST0045,47.0,Female,Ahmedabad,2023-06-06,Smartphone,Electronics,1,30060.32,5.0,1503.02,28557.3,Credit Card,Delivered
+ORD00454,CUST0022,33.0,Male,Jaipur,2024-12-18,Desk Chair,Furniture,2,9722.92,5.0,972.29,18473.55,Net Banking,Shipped
+ORD00455,CUST0024,56.0,Other,Hyderabad,2023-04-27,Novel,Books,1,630.26,0.0,0.0,630.26,Net Banking,Delivered
+ORD00456,CUST0013,23.0,Male,Mumbai,2024-01-02,Jeans,Clothing,5,2628.3,25.0,3285.38,9856.12,Net Banking,Delivered
+ORD00457,CUST0021,54.0,Other,Hyderabad,2024-05-07,Novel,Books,1,496.81,10.0,49.68,447.13,Debit Card,Delivered
+ORD00458,CUST0016,56.0,Male,Hyderabad,2023-06-02,Smartphone,Electronics,2,39562.66,0.0,0.0,79125.32,Cash on Delivery,Delivered
+ORD00459,CUST0022,33.0,Male,Jaipur,2023-10-31,Jeans,Clothing,1,2216.54,10.0,221.65,1994.89,Net Banking,Delivered
+ORD00460,CUST0030,55.0,Other,Kolkata,2024-11-24,Laptop,Electronics,1,79089.95,10.0,7908.99,71180.96,Net Banking,Shipped
+ORD00461,CUST0019,43.0,Female,Mumbai,2024-10-24,Laptop,Electronics,1,45386.89,5.0,2269.34,43117.55,UPI,Delivered
+ORD00462,CUST0075,60.0,Other,Jaipur,2024-01-17,Cookbook,Books,2,486.82,10.0,97.36,876.28,Debit Card,Delivered
+ORD00463,CUST0055,31.0,Other,Hyderabad,2024-05-04,Water Bottle,Accessories,1,416.47,15.0,62.47,354.0,Debit Card,Delivered
+ORD00464,CUST0001,52.0,Male,Delhi,2024-05-09,Headphones,Electronics,4,2174.14,20.0,1739.31,6957.25,Net Banking,Delivered
+ORD00465,CUST0045,47.0,Female,Ahmedabad,2023-05-14,Running Shoes,Footwear,3,4172.38,15.0,1877.57,10639.57,Net Banking,Delivered
+ORD00466,CUST0061,33.0,Male,Hyderabad,2023-11-18,Water Bottle,Accessories,1,235.78,0.0,0.0,235.78,Cash on Delivery,Shipped
+ORD00467,CUST0146,35.0,Female,Jaipur,2024-11-16,Monitor,Electronics,5,17605.21,10.0,8802.6,79223.45,Cash on Delivery,Delivered
+ORD00468,CUST0019,43.0,Female,Mumbai,2023-12-21,Backpack,Accessories,1,2517.97,25.0,629.49,1888.48,Net Banking,Delivered
+ORD00469,CUST0136,33.0,Female,Kolkata,2023-06-10,Cookbook,Books,2,337.2,20.0,134.88,539.52,Net Banking,Cancelled
+ORD00470,CUST0025,20.0,Female,Ahmedabad,2023-12-05,Smartphone,Electronics,1,36797.19,10.0,3679.72,33117.47,Credit Card,Delivered
+ORD00471,CUST0132,53.0,Male,Chennai,2023-03-22,Desk Chair,Furniture,3,8164.39,15.0,3673.98,20819.19,Net Banking,Shipped
+ORD00472,CUST0080,24.0,Female,Chennai,2023-05-02,Smartphone,Electronics,1,40267.44,15.0,6040.12,34227.32,Credit Card,Delivered
+ORD00473,CUST0062,41.0,Male,Delhi,2023-04-04,Laptop,Electronics,1,67285.24,20.0,13457.05,53828.19,Cash on Delivery,Delivered
+ORD00474,CUST0111,25.0,Female,Bangalore,2023-12-16,Novel,Books,2,323.11,10.0,64.62,581.6,Credit Card,Shipped
+ORD00475,CUST0083,35.0,Male,Pune,2024-04-29,Running Shoes,Footwear,2,3931.71,25.0,1965.86,5897.56,UPI,Shipped
+ORD00476,CUST0029,60.0,Other,Bangalore,2023-12-16,Smartphone,Electronics,1,37057.56,10.0,3705.76,33351.8,UPI,Delivered
+ORD00477,CUST0042,60.0,Female,Lucknow,2024-05-19,Monitor,Electronics,4,9807.48,5.0,1961.5,37268.42,Net Banking,Delivered
+ORD00478,CUST0011,21.0,Female,Kolkata,2023-08-09,T-Shirt,Clothing,3,443.89,15.0,199.75,1131.92,Debit Card,Shipped
+ORD00479,CUST0026,57.0,Other,Lucknow,2024-11-19,Backpack,Accessories,2,733.85,20.0,293.54,1174.16,Credit Card,Shipped
+ORD00480,CUST0081,53.0,Female,Jaipur,2023-05-18,Water Bottle,Accessories,5,725.77,15.0,544.33,3084.52,Credit Card,Delivered
+ORD00481,CUST0025,20.0,Female,Ahmedabad,2024-05-09,Novel,Books,3,760.18,20.0,456.11,1824.43,Debit Card,Delivered
+ORD00482,CUST0029,60.0,Other,Bangalore,2024-11-04,Monitor,Electronics,1,21859.15,20.0,4371.83,17487.32,Cash on Delivery,Cancelled
+ORD00483,CUST0109,53.0,Male,Pune,2024-12-10,Backpack,Accessories,2,1813.13,5.0,181.31,3444.95,UPI,Delivered
+ORD00484,CUST0026,57.0,Other,Lucknow,2024-02-27,Jeans,Clothing,1,1795.26,20.0,359.05,1436.21,Cash on Delivery,Delivered
+ORD00485,CUST0131,40.0,Female,Jaipur,2024-10-09,Running Shoes,Footwear,4,4644.81,5.0,928.96,17650.28,Debit Card,Delivered
+ORD00486,CUST0029,60.0,Other,Bangalore,2024-12-28,Desk Chair,Furniture,2,7797.57,25.0,3898.78,11696.36,Debit Card,Delivered
+ORD00487,CUST0016,56.0,Male,Hyderabad,2024-05-06,Monitor,Electronics,1,9961.89,20.0,1992.38,7969.51,Cash on Delivery,Cancelled
+ORD00488,CUST0064,28.0,Male,Chennai,2023-10-20,Desk Chair,Furniture,3,12226.3,15.0,5501.83,31177.07,Credit Card,Delivered
+ORD00489,CUST0013,23.0,Male,Mumbai,2023-07-24,Backpack,Accessories,2,1020.45,10.0,204.09,1836.81,Debit Card,Returned
+ORD00490,CUST0009,51.0,Male,Delhi,2023-10-30,Headphones,Electronics,2,6955.98,5.0,695.6,13216.36,Cash on Delivery,Delivered
+ORD00491,CUST0082,27.0,Male,Hyderabad,2024-07-29,Smartphone,Electronics,2,32331.59,5.0,3233.16,61430.02,Cash on Delivery,Delivered
+ORD00492,CUST0112,22.0,Male,Jaipur,2024-01-26,Monitor,Electronics,2,12889.86,15.0,3866.96,21912.76,Net Banking,Returned
+ORD00493,CUST0011,21.0,Female,Kolkata,2023-07-27,Novel,Books,2,231.28,20.0,92.51,370.05,Net Banking,Shipped
+ORD00494,CUST0039,34.0,Female,Delhi,2023-07-18,Cookbook,Books,2,681.63,10.0,136.33,1226.93,Net Banking,Delivered
+ORD00495,CUST0009,51.0,Male,Delhi,2023-05-03,Headphones,Electronics,2,7756.09,15.0,2326.83,13185.35,Credit Card,Delivered
+ORD00496,CUST0135,27.0,Female,Chennai,2023-09-19,Jeans,Clothing,2,1085.15,0.0,0.0,2170.3,UPI,Delivered
+ORD00497,CUST0020,25.0,Male,Jaipur,2023-02-22,Laptop,Electronics,1,51148.14,25.0,12787.03,38361.11,Cash on Delivery,Shipped
+ORD00498,CUST0005,21.0,Other,Hyderabad,2023-03-16,Water Bottle,Accessories,2,830.93,25.0,415.46,1246.4,UPI,Delivered
+ORD00499,CUST0005,21.0,Other,Hyderabad,2024-03-01,Novel,Books,2,239.91,20.0,95.96,383.86,Cash on Delivery,Delivered
+ORD00500,CUST0029,60.0,Other,Bangalore,2023-12-06,T-Shirt,Clothing,2,1359.08,10.0,271.82,2446.34,UPI,Delivered
+ORD00307,CUST0011,21.0,Female,Kolkata,2023-04-27,Cookbook,Books,1,571.05,10.0,57.1,513.95,UPI,Shipped
+ORD00450,CUST0008,50.0,Male,Jaipur,2023-06-23,T-Shirt,Clothing,2,1179.89,0.0,0.0,2359.78,UPI,Shipped
+ORD00124,CUST0113,27.0,Male,Ahmedabad,2024-11-25,Smartphone,Electronics,1,23390.7,25.0,5847.68,17543.02,Cash on Delivery,Delivered
+ORD00195,CUST0025,20.0,Female,Ahmedabad,2024-04-05,Running Shoes,Footwear,1,2435.17,5.0,121.76,2313.41,,Delivered
+ORD00067,CUST0003,38.0,Other,Chennai,2024-07-19,Monitor,Electronics,2,10692.43,15.0,3207.73,18177.13,Credit Card,Delivered
+ORD00395,CUST0075,60.0,Other,Jaipur,2024-02-28,Monitor,Electronics,1,15134.1,,2270.11,12863.99,Net Banking,Delivered
+ORD00431,CUST0025,20.0,Female,Ahmedabad,2023-12-11,Jeans,Clothing,1,2304.71,10.0,230.47,2074.24,UPI,Cancelled
+ORD00346,CUST0004,21.0,Male,Hyderabad,2023-09-02,Jeans,Clothing,2,2336.09,0.0,0.0,4672.18,Debit Card,Delivered
